@@ -2,11 +2,35 @@
     "panels":[
         {
             "id": 1,
-            "label": "mk-100"
+            "label": "mk-100",
+            "Efficiency": 0.43,
+            "Uoc":13.3,
+            "Isc": 3.14,
+            "Ump":12.4,
+            "Imp": 4.6,
+            "Unom": 12.0,
+            "Inom":2.1,
+            "S":0.25,
+            "TC":0.3
         },
         {
             "id": 2,
-            "label": "2-nb-12"
+            "label": "2-nb-12",
+            "Efficiency": 0.33,
+            "Uoc":12.3,
+            "Isc": 2.14,
+            "Ump":11.4,
+            "Imp": 3.6,
+            "Unom": 10.0,
+            "Inom":2.1,
+            "S":0.25,
+            "TC":0.3
         }
+    ],
+    "ivc":[
+
+    ],
+    "ipc":[
+
     ]
 }
