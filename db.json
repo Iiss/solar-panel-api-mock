@@ -31,6 +31,17 @@
 
     ],
     "ipc":[
-
+        {"label":"jan", "P":1.1, "Popt":5.6},
+        {"label":"feb", "P":1.2, "Popt":6.6},
+        {"label":"mar", "P":1.3, "Popt":7.6},
+        {"label":"apr", "P":1.4, "Popt":4.6},
+        {"label":"may", "P":1.3, "Popt":5.6},
+        {"label":"jun", "P":1.6, "Popt":6.6},
+        {"label":"jul", "P":1.7, "Popt":7.6},
+        {"label":"aug", "P":1.3, "Popt":3.6},
+        {"label":"sep", "P":1.7, "Popt":4.6},
+        {"label":"oct", "P":1.5, "Popt":6.6},
+        {"label":"nov", "P":1.4, "Popt":5.6},
+        {"label":"dec", "P":1.6, "Popt":4.6}
     ]
 }
